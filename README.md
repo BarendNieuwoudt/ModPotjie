@@ -1,2 +1,6 @@
+_Potjie_ (pronounced poy-kee) translates to "small pot"
+
 # ModPotjie
-Modular system for propagation pots and 'potjies'
+Modular system for propagation _potjies_.
+
+
