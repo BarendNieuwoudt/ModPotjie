@@ -1,4 +1,4 @@
-_Potjie_ (pronounced poy-kee) translates to "small pot"
+_Potjie_ (pronounced poy-key) translates to "small pot"
 
 # ModPotjie
 Modular system for propagation _potjies_.
