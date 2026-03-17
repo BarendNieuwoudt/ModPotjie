@@ -12,7 +12,7 @@ Adapters change the opening of bottles, containers and jars to the standard 50mm
 ## Baskets
 Baskets, with the help of sponge, suspend cuttings in water for propagation.
 
-<img width="1290" height="651" alt="image" src="https://github.com/user-attachments/assets/fdf7815b-0981-41d9-a975-585381fe6204" />
+![ModPotjieBaskets](https://github.com/user-attachments/assets/a24608bd-5c55-4833-8658-be3acecb6665)
 
 # Example Usages
 ![nescafe_classic_bottle_adapter_v1](https://github.com/user-attachments/assets/f84a51c7-3375-49e7-93c1-a03261382139)
