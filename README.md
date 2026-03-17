@@ -4,7 +4,7 @@ _Potjie_ (pronounced poy-key) translates to "small pot"
 Modular system for propagation _potjies_.
 
 # Adapters
-Adapters change the opening of bottles, containers and jars to the standard 50mm size that ModPotjie insert fit into. 
+Adapters change the opening of bottles, containers and jars to the standard 50mm size that ModPotjie compatible inserts fit into. 
 
 <img width="1485" height="756" alt="image" src="https://github.com/user-attachments/assets/98815f51-8ae8-4c61-8991-01c6168bd46a" />
 
